@@ -1,0 +1,8 @@
+c:\users\fabian\documents\visual studio 2015\Projects\ZebraPuzzle\ZebraPuzzle\bin\Debug\ZebraPuzzle.exe.config
+c:\users\fabian\documents\visual studio 2015\Projects\ZebraPuzzle\ZebraPuzzle\obj\Debug\ZebraPuzzle.csprojResolveAssemblyReference.cache
+c:\users\fabian\documents\visual studio 2015\Projects\ZebraPuzzle\ZebraPuzzle\bin\Debug\ZebraPuzzle.exe
+c:\users\fabian\documents\visual studio 2015\Projects\ZebraPuzzle\ZebraPuzzle\bin\Debug\ZebraPuzzle.pdb
+c:\users\fabian\documents\visual studio 2015\Projects\ZebraPuzzle\ZebraPuzzle\bin\Debug\Microsoft.Solver.Foundation.dll
+c:\users\fabian\documents\visual studio 2015\Projects\ZebraPuzzle\ZebraPuzzle\bin\Debug\Microsoft.Solver.Foundation.xml
+c:\users\fabian\documents\visual studio 2015\Projects\ZebraPuzzle\ZebraPuzzle\obj\Debug\ZebraPuzzle.exe
+c:\users\fabian\documents\visual studio 2015\Projects\ZebraPuzzle\ZebraPuzzle\obj\Debug\ZebraPuzzle.pdb
